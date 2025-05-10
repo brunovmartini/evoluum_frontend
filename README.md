@@ -2,15 +2,11 @@
 
 O **Evoluum Tasks Frontend** é o repositório que contém o código do frontend da aplicação Evoluum Tasks.
 
-### Publicação 🗒️
-
-- A versão de produção do projeto publicado pode ser acessado pelo endereço https://evoluum-tasks.flutterflow.app/
-
 ---
 
-### Execução ⚙️
+### Publicação e Execução ⚙️
 
-- O projeto pode ser visualido, testado e executado no FlutterFlow pelo link https://app.flutterflow.io/project/evoluum-tasks-z4aeqk
+- O projeto pode ser visualido, testado, publicado e executado no FlutterFlow pelo link https://app.flutterflow.io/project/evoluum-tasks-z4aeqk
 
 ---
 
