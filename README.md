@@ -36,7 +36,7 @@ Tela de home page que contém o menu lateral esquerdo onde é possível clicar p
 
 **Tela To Do List**
 
-Tela que apresenta o menu lateral esquerdo e a lista de tarefas com os botões de voltar, adicionar tarefa e visualiza tarefa.
+Tela que apresenta o menu lateral esquerdo e a lista de tarefas com os botões de voltar, adicionar tarefa e visualizar tarefa.
 
 ---
 
